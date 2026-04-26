@@ -28,6 +28,17 @@ The goal is to build a strong problem-solving foundation and maintain a well-org
 
 ---
 
+## 🗺️ Current Learning Path
+
+I am currently following a structured DSA roadmap to stay consistent and cover all important topics systematically:
+
+📄 Roadmap:
+https://drive.google.com/file/d/1oXIQXDgwyD6GWGQgF2MOIBqqr6eMO78E/view?usp=sharing
+
+This helps me focus on the right problems and maintain a step-by-step progression.
+
+---
+
 ## 🧠 What You'll Find Here
 
 * ✅ Clean and optimized solutions
